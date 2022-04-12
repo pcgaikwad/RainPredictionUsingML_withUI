@@ -1,0 +1,25 @@
+body {
+  justify-content: flex-start;
+	background: linear-gradient(#0004, #0004),
+		url(https://i.pinimg.com/originals/b2/94/16/b2941633a2256bff2c8b45dbe6b5ed75.jpg)
+			no-repeat;
+	background-size: cover;
+	background-position: center;
+    font-family: 'Poppins', sans-serif;
+}
+.form {
+    background-color: white;
+    width: 70vw;
+    margin: 50px auto;
+    padding: 20px 50px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    border-radius: 12px;
+}
+.form h1 {
+    color: #0fd3dd;
+}
+
+.button {
+    padding: 5px 30px;
+    font-size: 18px;
+}
