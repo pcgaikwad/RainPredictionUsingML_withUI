@@ -36,7 +36,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 ![Dashboard](githubimgs/dashboard.png)
 * Developer:
 ![Developer](githubimgs/developer.png)
-* Predictor:
+* Predictor
 
 * Result:
 
