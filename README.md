@@ -37,9 +37,9 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Developer:
 ![Developer](githubimgs/developer.png)
 * Predictor:
-![Predictor](githubimgs/predictor.png)
+
 * Result:
-![Result](githubimgs/result.png)
+
 
 # Workflow
 
